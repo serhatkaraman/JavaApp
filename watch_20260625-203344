@@ -1,0 +1,36 @@
+NAME                                                      READY   STATUS        RESTARTS       AGE                                                    
+argocd-application-controller-7d98b65f98-zmddh            1/1     Running       0              19h                                                    
+argocd-applicationset-controller-7c7648d6d6-ttc2d         1/1     Running       1 (97m ago)    19h                                                    
+argocd-notifications-controller-6b6b86d88-59sfn           1/1     Running       1 (97m ago)    19h                                                    
+argocd-repo-server-57bcd99c7c-mcw9x                       0/2     Init:Error    1 (13s ago)    23s                                                    
+argocd-repo-server-57bcd99c7c-slkd9                       1/2     Terminating   12 (97m ago)   9h                                                     
+argocd-server-77b9d949c5-z79pz                            1/1     Running       3 (97m ago)    19h                                                    
+cni-test                                                  0/1     Completed     0              115m                                                   
+dreamgames-case-argocd-redis-ha-haproxy-7586f6f68-j29mg   1/1     Running       0              19h                                                    
+dreamgames-case-argocd-redis-ha-haproxy-7586f6f68-kk4lw   1/1     Running       5 (102m ago)   19h                                                    
+dreamgames-case-argocd-redis-ha-haproxy-7586f6f68-pdrnv   1/1     Running       0              19h                                                    
+dreamgames-case-argocd-redis-ha-server-0                  3/3     Running       0              19h                                                    
+dreamgames-case-argocd-redis-ha-server-1                  3/3     Running       3 (97m ago)    19h                                                    
+dreamgames-case-argocd-redis-ha-server-2                  3/3     Running       0              19h                                                    
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      
+                                                                                                                                                      

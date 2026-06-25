@@ -35,4 +35,3 @@ COPY --from=build --chown=spring:spring /build/extracted/application/ ./
 EXPOSE 9001
 
 ENTRYPOINT ["java", "org.springframework.boot.loader.JarLauncher"]
-
